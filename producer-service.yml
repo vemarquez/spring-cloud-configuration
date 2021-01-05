@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8890}
+  
+message: La configuración del servicio de producer esta activo.  
